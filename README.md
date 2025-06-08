@@ -1,8 +1,3 @@
----
-
-### 📄 Contenu à **copier intégralement** :
-
-```markdown
 # 🐍 Formation Python – Projet de base
 
 Bienvenue dans ce dépôt de formation Python, structuré pour un usage pédagogique, modulaire et professionnel.
@@ -101,16 +96,14 @@ Ce dépôt est conçu pour :
 * faciliter l’installation sur toutes plateformes
 * proposer cours, exercices, démos et outils intégrés
 
-````
-
 ---
 
 ## ✍️ Auteur
 
-Nom : Laurent Ferrer
-GitHub : https://github.com/Program-ID/GIT-PROJECT.git
-Contact : mail.laurent.ferrer@gmail.com
-
-````
+**Nom** : Laurent Ferrer
+**GitHub** : [https://github.com/Program-ID/GIT-PROJECT.git](https://github.com/Program-ID/GIT-PROJECT.git)
+**Contact** : [mail.laurent.ferrer@gmail.com](mailto:mail.laurent.ferrer@gmail.com)
 
 ---
+
+
