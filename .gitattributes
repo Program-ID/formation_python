@@ -10,3 +10,4 @@
 
 # Batch Windows
 *.bat text eol=crlf
+README.md text eol=lf
