@@ -1,0 +1,12 @@
+# Scripts shell : forcer LF (Unix)
+*.sh text eol=lf
+
+# Fichiers Python : normalisation automatique
+*.py text=auto
+
+# Markdown, CSV
+*.md text=auto
+*.csv text=auto
+
+# Batch Windows
+*.bat text eol=crlf
