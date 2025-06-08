@@ -104,3 +104,11 @@ Ce dépôt est conçu pour :
 ````
 
 ---
+
+
+##  ✍️ Auteur
+Nom : Laurent Ferrer
+GitHub : https://github.com/Program-ID/GIT-PROJECT.git
+Contact : mail.laurent.ferrer@gmail.com
+
+---
