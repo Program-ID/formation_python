@@ -101,7 +101,7 @@ Ce dépôt est conçu pour :
 ## ✍️ Auteur
 
 **Nom** : Laurent Ferrer
-**GitHub** : [https://github.com/Program-ID/GIT-PROJECT.git](https://github.com/Program-ID/GIT-PROJECT.git)
+**GitHub** : [https://github.com/Program-ID/formation_python.git](https://github.com/Program-ID/formation_python.git)
 **Contact** : [mail.laurent.ferrer@gmail.com](mailto:mail.laurent.ferrer@gmail.com)
 
 ---
