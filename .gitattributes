@@ -2,7 +2,7 @@
 *.sh text eol=lf
 
 # Fichiers Python : normalisation automatique
-*.py text=auto
+*.py text eol=lf
 
 # Markdown, CSV
 *.md text=auto
